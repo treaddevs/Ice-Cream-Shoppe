@@ -1,5 +1,6 @@
 # Ice-Cream-Shoppe
-Ice Cream Shoppe program to indicate how many cartons of ice cream were used based on scoop size:
+Ice Cream Shoppe program indicates how many cartons of ice cream were used in total
+Based on the selected scoop's radius sizes, and the number of scoops given:
 
 The user is prompted to enter:
 1) Radius of the first scooper
